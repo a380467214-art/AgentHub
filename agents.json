@@ -1,0 +1,30 @@
+[
+  {
+    "key": "codex",
+    "title": "Codex",
+    "launch": "%APPDATA%\\Microsoft\\Windows\\Start Menu\\Programs\\ChatGPT.lnk",
+    "processName": "ChatGPT",
+    "accent": "#10A37F"
+  },
+  {
+    "key": "dsh",
+    "title": "DSH",
+    "launch": "%LOCALAPPDATA%\\Programs\\DeepSeek Harness\\DeepSeek Harness.exe",
+    "processName": "DeepSeek Harness",
+    "accent": "#4D6BFE"
+  },
+  {
+    "key": "workbuddy",
+    "title": "WorkBuddy",
+    "launch": "%ProgramFiles%\\WorkBuddy\\WorkBuddy.exe",
+    "processName": "WorkBuddy",
+    "accent": "#F5A524"
+  },
+  {
+    "key": "zcode",
+    "title": "ZCode",
+    "launch": "%LOCALAPPDATA%\\Programs\\ZCode\\ZCode.exe",
+    "processName": "ZCode",
+    "accent": "#8B5CF6"
+  }
+]

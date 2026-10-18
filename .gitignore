@@ -1,0 +1,18 @@
+# build output
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# runtime artifacts
+crash.log
+*.log
+
+# local screenshots
+*.png
+!docs/*.png
+
+# OS
+Thumbs.db
+desktop.ini
