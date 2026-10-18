@@ -26,7 +26,7 @@
 ### 构建
 
 ```powershell
-git clone https://github.com/<your-name>/AgentHub.git
+git clone https://github.com/a380467214-art/AgentHub.git
 cd AgentHub
 dotnet build -c Release
 bin\Release\net10.0-windows\AgentHub.exe
